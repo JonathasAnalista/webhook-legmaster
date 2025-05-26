@@ -1,0 +1,23 @@
+{
+  "name": "projeto_web",
+  "version": "1.0.0",
+  "main": "criar-preferencia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathasAnalista/Projeto-profissional-legmaster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathasAnalista/Projeto-profissional-legmaster/issues"
+  },
+  "homepage": "https://github.com/JonathasAnalista/Projeto-profissional-legmaster#readme",
+  "description": "",
+  "dependencies": {
+    "mercadopago": "^1.5.14"
+  }
+}
