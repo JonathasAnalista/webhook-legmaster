@@ -1,0 +1,23 @@
+{
+  "name": "projeto_web",
+  "version": "1.0.0",
+  "main": "criar-preferencia.js",
+  "type": "module",
+  "scripts": {
+    "start": "node criar-preferencia.js"
+  },
+  "dependencies": {
+    "mercadopago": "^1.5.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonathasAnalista/Projeto-profissional-legmaster.git"
+  },
+  "author": "Jonathas Analista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathasAnalista/Projeto-profissional-legmaster/issues"
+  },
+  "homepage": "https://github.com/JonathasAnalista/Projeto-profissional-legmaster#readme",
+  "description": "Plataforma de simulado e pagamentos com Mercado Pago"
+}
