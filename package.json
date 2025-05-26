@@ -1,23 +1,13 @@
 {
-  "name": "projeto_web",
+  "name": "webhook-legmaster",
   "version": "1.0.0",
-  "main": "criar-preferencia.js",
-  "type": "module",
+  "main": "webhook.js",
   "scripts": {
-    "start": "node criar-preferencia.js"
+    "start": "node webhook.js"
   },
   "dependencies": {
-    "mercadopago": "^1.5.14"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/JonathasAnalista/Projeto-profissional-legmaster.git"
-  },
-  "author": "Jonathas Analista",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JonathasAnalista/Projeto-profissional-legmaster/issues"
-  },
-  "homepage": "https://github.com/JonathasAnalista/Projeto-profissional-legmaster#readme",
-  "description": "Plataforma de simulado e pagamentos com Mercado Pago"
+    "axios": "^1.6.8",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.9"
+  }
 }
